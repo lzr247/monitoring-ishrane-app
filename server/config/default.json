@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey":"",
+    "db":"mongodb+srv://conacona:testtest@monitoringishrane.gonru.mongodb.net/monitoringIshrane?retryWrites=true&w=majority"
+}
